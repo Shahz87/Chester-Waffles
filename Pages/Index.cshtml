@@ -1,0 +1,32 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<section class="text-center">
+    <div class="container">
+        <h1 class="display-4">Welcome to our Waffle Restaurant</h1>
+        <p class="lead">Enjoy the delicious taste of freshly made waffles.</p>
+
+        <a class="btn btn-primary" asp-area="" asp-page="/Product">View Menu</a>
+    </div>
+</section>
+
+
+
+
+<!-- About Section -->
+<section class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>About Us</h2>
+                <p>We are passionate about creating delicious waffles using high-quality ingredients. Our goal is to provide a memorable dining experience for our customers.</p>
+            </div>
+            <div class="col-md-6">
+                <img src="/assets/waffle.jpg" class="img-fluid" alt="About Us Image">
+            </div>
+        </div>
+    </div>
+</section>
