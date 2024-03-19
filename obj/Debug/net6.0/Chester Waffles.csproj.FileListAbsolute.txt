@@ -1,0 +1,60 @@
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\appsettings.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\Chester Waffles.staticwebassets.runtime.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\Chester Waffles.exe
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\Chester Waffles.deps.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\Chester Waffles.runtimeconfig.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\bin\Debug\net6.0\Chester Waffles.pdb
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.AssemblyInfoInputs.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.AssemblyInfo.cs
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.csproj.CoreCompileInputs.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.RazorAssemblyInfo.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.RazorAssemblyInfo.cs
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets\msbuild.Chester Waffles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets\msbuild.build.Chester Waffles.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chester Waffles.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chester Waffles.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\scopedcss\bundle\Chester Waffles.styles.css
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\scopedcss\projectbundle\Chester Waffles.bundle.scp.css
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\refint\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.pdb
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\Chester Waffles.genruntimeconfig.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Web Application\Chester Waffles\obj\Debug\net6.0\ref\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\appsettings.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\Chester Waffles.staticwebassets.runtime.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\Chester Waffles.exe
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\Chester Waffles.deps.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\Chester Waffles.runtimeconfig.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\bin\Debug\net6.0\Chester Waffles.pdb
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.AssemblyInfoInputs.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.AssemblyInfo.cs
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.csproj.CoreCompileInputs.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.RazorAssemblyInfo.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.RazorAssemblyInfo.cs
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets\msbuild.Chester Waffles.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets\msbuild.build.Chester Waffles.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chester Waffles.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chester Waffles.props
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\scopedcss\bundle\Chester Waffles.styles.css
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\scopedcss\projectbundle\Chester Waffles.bundle.scp.css
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\refint\Chester Waffles.dll
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.pdb
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\Chester Waffles.genruntimeconfig.cache
+C:\Users\bleed\OneDrive - University of Chester\Year 2\Github\Chester-Waffles\obj\Debug\net6.0\ref\Chester Waffles.dll

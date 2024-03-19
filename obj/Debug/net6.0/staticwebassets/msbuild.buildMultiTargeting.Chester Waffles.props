@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chester Waffles.props" />
+</Project>
